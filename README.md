@@ -18,9 +18,9 @@ Clone the repo.
 
 Open the index html file:
 
-	```
-	src/slime.io.html
-	```
+```
+src/slime.io.html
+```
 
 ## Deployment
 
